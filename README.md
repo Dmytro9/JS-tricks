@@ -1,5 +1,2 @@
-# JS-tricks
+# JS-tricks and things 
 It might be interesting ...
-
-# Measuring the Performance
-# Set, Map, WeakSet and WeakMap
