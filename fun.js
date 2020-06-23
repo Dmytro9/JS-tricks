@@ -1,4 +1,5 @@
 // Unique values of array
+const emitter = require("./1");
 const arr = [1, 1, 2, 2, 3, 3, 5, "one", "two", "one"];
 
 const uniqArr = [...new Set(arr)];
@@ -13,3 +14,5 @@ let racer = function() {
 };
 
 racer();
+
+emitter.emit("log", 1, 2, 3);
